@@ -14,28 +14,22 @@ I am a passionate Frontend Engineer focused on building clean, performant, and u
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+      TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="React" />
-      <br>React
+      React
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+      Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
+      Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Git" />
-      <br>Git
+      Git
     </td>
   </tr>
 </table>
