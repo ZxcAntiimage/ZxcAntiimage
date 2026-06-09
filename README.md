@@ -42,13 +42,13 @@ I am a passionate Frontend Engineer focused on building clean, performant, and u
 
 ### 🚀 Featured Projects
 
-#### 📋 [Task management] (https://github.com/ZxcAntiimage/Task-Management)
+#### 📋 Task managment
 A fully functional project management tool inspired by Nuegas.
 *   **Stack:** React, TypeScript, Tailwind CSS, Redux Toolkit, Nest.js, Shadcn UI
 *   **Key Features:** task management, persistent state, complex state architecture, clean code structure.
 *   *Status:* [Live Demo Link](https://task-management-six-blond.vercel.app/)
 
-#### 🌐 [Personal Portfolio](https://github.com/ZxcAntiimage)
+#### 🌐 Personal Portfolio
 My digital business card showcasing my skills and projects.
 *   **Stack:** Next.js, TypeScript, Tailwind CSS.
 *   **Key Features:** Fully responsive, contact form integration, fast page loads, clean design.
