@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi there, I'm Maxim Starikov 👋 
+### Frontend Developer | React / Next.js / TypeScript Specialist
 
-<!--
-**ZxcAntiimage/ZxcAntiimage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Frontend Engineer focused on building clean, performant, and user-friendly web applications. I love turning complex problems into elegant, well-structured code using modern JavaScript ecosystems.
 
-Here are some ideas to get you started:
+- 🌍  Based in: Russia (open to remote)
+- 💼  Check out my personal portfolio website: [portfolio](https://portfolio-starikov.vercel.app/)
+- 🌱  Currently diving deeper into: Advanced Next.js features, Performance Optimization, and System Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.dev" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+*   **State Management:** Redux Toolkit, React Context API, Jotai
+*   **Build Tools & Environments:** Vite, Node.js, npm, Webpack
+*   **Deployment & Cloud:** Vercel, GitHub Actions
+
+---
+
+### 🚀 Featured Projects
+
+#### 📋 [Task management] (https://github.com/ZxcAntiimage/Task-Management)
+A fully functional project management tool inspired by Nuegas.
+*   **Stack:** React, TypeScript, Tailwind CSS, Redux Toolkit, Nest.js, Shadcn UI
+*   **Key Features:** task management, persistent state, complex state architecture, clean code structure.
+*   *Status:* [Live Demo Link](https://task-management-six-blond.vercel.app/)
+
+#### 🌐 [Personal Portfolio](https://github.com/ZxcAntiimage)
+My digital business card showcasing my skills and projects.
+*   **Stack:** Next.js, TypeScript, Tailwind CSS.
+*   **Key Features:** Fully responsive, contact form integration, fast page loads, clean design.
+*   *Status:* [Live Demo](https://portfolio-starikov.vercel.app/)
+
+---
+
+
+### 📫 Connect with me
+
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/maxim-stariokov-a58510414) *(обязательно замените на свою ссылку!)*
+*   **Email:** fasionergg@gmail.com *(замените на свой email)*
+*   **Telegram:** [@zxckulluaaa](https://t.me/zxckulluaaa) *(замените на свой юзернейм)*
+
+
