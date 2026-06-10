@@ -59,8 +59,8 @@ My digital business card showcasing my skills and projects.
 
 ### 📫 Connect with me
 
-*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/maxim-stariokov-a58510414) *(обязательно замените на свою ссылку!)*
-*   **Email:** fasionergg@gmail.com *(замените на свой email)*
-*   **Telegram:** [@zxckulluaaa](https://t.me/zxckulluaaa) *(замените на свой юзернейм)*
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/maxim-stariokov-a58510414)
+*   **Email:** fasionergg@gmail.com
+*   **Telegram:** [@zxckulluaaa](https://t.me/zxckulluaaa)
 
 
