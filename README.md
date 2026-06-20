@@ -1,7 +1,7 @@
 # Hi there, I'm Maxim Starikov 👋 
 ### Frontend Developer | React / Next.js / TypeScript Specialist
 
-I am a passionate Frontend Engineer focused on building clean, performant, and user-friendly web applications. I love turning complex problems into elegant, well-structured code using modern JavaScript ecosystems.
+I am a passionate Frontend/Fullstack Engineer focused on building clean, performant, and user-friendly web applications. I love turning complex problems into elegant, well-structured code using modern JavaScript ecosystems.
 
 - 🌍  Based in: Russia (open to remote)
 - 💼  Check out my personal portfolio website: [portfolio](https://portfolio-starikov.vercel.app/)
