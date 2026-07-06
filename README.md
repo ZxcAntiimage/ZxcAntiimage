@@ -6,6 +6,7 @@ I am a passionate Frontend/Fullstack Engineer focused on building clean, perform
 - 🌍  Based in: Russia (open to remote)
 - 💼  Check out my personal portfolio website: [portfolio](https://portfolio-starikov.vercel.app/)
 - 🌱  Currently diving deeper into: Advanced Next.js features, Performance Optimization, and System Design.
+- 💡 Make an order: Telegram: @helper_bot_by_starikov_bot | [portfolio](https://portfolio-starikov.vercel.app/)
 
 ---
 
